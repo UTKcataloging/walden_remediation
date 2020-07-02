@@ -1,0 +1,2266 @@
+<METS:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:METS="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:PREMIS="info:lc/xmlns/premis-v2" xmlns:HT="http://www.hathitrust.org/premis_extension" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd">
+   <METS:dmdSec ID="ms0012_003644_000202_0000_DMD1">
+      <METS:mdWrap MDTYPE="OTHER">
+         <METS:xmlData>
+            <metadata>
+               <title>Annual Catalogue of the Walden University, 1909-10</title>
+               <creator>Walden University (Nashville, Tenn.)</creator>
+               <subject>Walden University (Nashville, Tenn.) -- Curricula</subject>
+               <subject>Walden University</subject>
+               <publisher>Nashville, Tenn. : Press of Marshall &amp; Bruce Co.,</publisher>
+               <date>1909</date>
+               <rights>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
+                <language>english</language>
+                <type>text</type>
+                <format>text/xml</format>
+                <coverage>1909-1910</coverage>
+                <source>LD5721.W567 A3</source>
+                <relation>The University of Tennessee Libraries, Special Collections, Rare Books Collection</relation>
+                <identifier>0012_003644_000202_0000</identifier>
+            </metadata>
+         </METS:xmlData>
+      </METS:mdWrap>
+   </METS:dmdSec>
+   <METS:amdSec>
+      <METS:techMD ID="ms0012_003644_000202_0000_TMD1">
+         <METS:mdWrap MDTYPE="OTHER">
+            <METS:xmlData>
+               <book>
+                  <bookData>
+                     <pageNumData>
+                        <assertion>
+                           <leafNum>1</leafNum>
+                           <pageNum>1</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>2</leafNum>
+                           <pageNum>2</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>3</leafNum>
+                           <pageNum>3</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>4</leafNum>
+                           <pageNum>4</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>5</leafNum>
+                           <pageNum>5</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>6</leafNum>
+                           <pageNum>6</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>7</leafNum>
+                           <pageNum>7</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>8</leafNum>
+                           <pageNum>8</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>9</leafNum>
+                           <pageNum>9</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>10</leafNum>
+                           <pageNum>10</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>11</leafNum>
+                           <pageNum>11</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>12</leafNum>
+                           <pageNum>12</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>13</leafNum>
+                           <pageNum>13</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>14</leafNum>
+                           <pageNum>14</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>15</leafNum>
+                           <pageNum>15</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>16</leafNum>
+                           <pageNum>16</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>17</leafNum>
+                           <pageNum>17</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>18</leafNum>
+                           <pageNum>18</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>19</leafNum>
+                           <pageNum>19</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>20</leafNum>
+                           <pageNum>20</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>21</leafNum>
+                           <pageNum>21</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>22</leafNum>
+                           <pageNum>22</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>23</leafNum>
+                           <pageNum>23</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>24</leafNum>
+                           <pageNum>24</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>25</leafNum>
+                           <pageNum>25</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>26</leafNum>
+                           <pageNum>26</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>27</leafNum>
+                           <pageNum>27</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>28</leafNum>
+                           <pageNum>28</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>29</leafNum>
+                           <pageNum>29</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>30</leafNum>
+                           <pageNum>30</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>31</leafNum>
+                           <pageNum>31</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>32</leafNum>
+                           <pageNum>32</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>33</leafNum>
+                           <pageNum>33</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>34</leafNum>
+                           <pageNum>34</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>35</leafNum>
+                           <pageNum>35</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>36</leafNum>
+                           <pageNum>36</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>37</leafNum>
+                           <pageNum>37</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>38</leafNum>
+                           <pageNum>38</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>39</leafNum>
+                           <pageNum>39</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>40</leafNum>
+                           <pageNum>40</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>41</leafNum>
+                           <pageNum>41</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>42</leafNum>
+                           <pageNum>42</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>43</leafNum>
+                           <pageNum>43</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>44</leafNum>
+                           <pageNum>44</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>45</leafNum>
+                           <pageNum>45</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>46</leafNum>
+                           <pageNum>46</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>47</leafNum>
+                           <pageNum>47</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>48</leafNum>
+                           <pageNum>48</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>49</leafNum>
+                           <pageNum>49</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>50</leafNum>
+                           <pageNum>50</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>51</leafNum>
+                           <pageNum>51</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>52</leafNum>
+                           <pageNum>52</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>53</leafNum>
+                           <pageNum>53</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>54</leafNum>
+                           <pageNum>54</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>55</leafNum>
+                           <pageNum>55</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>56</leafNum>
+                           <pageNum>56</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>57</leafNum>
+                           <pageNum>57</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>58</leafNum>
+                           <pageNum>58</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>59</leafNum>
+                           <pageNum>59</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>60</leafNum>
+                           <pageNum>60</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>61</leafNum>
+                           <pageNum>61</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>62</leafNum>
+                           <pageNum>62</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>63</leafNum>
+                           <pageNum>63</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>64</leafNum>
+                           <pageNum>64</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>65</leafNum>
+                           <pageNum>65</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>66</leafNum>
+                           <pageNum>66</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>67</leafNum>
+                           <pageNum>67</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>68</leafNum>
+                           <pageNum>68</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>69</leafNum>
+                           <pageNum>69</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>70</leafNum>
+                           <pageNum>70</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>71</leafNum>
+                           <pageNum>71</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>72</leafNum>
+                           <pageNum>72</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>73</leafNum>
+                           <pageNum>73</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>74</leafNum>
+                           <pageNum>74</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>75</leafNum>
+                           <pageNum>75</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>76</leafNum>
+                           <pageNum>76</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>77</leafNum>
+                           <pageNum>77</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>78</leafNum>
+                           <pageNum>78</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>79</leafNum>
+                           <pageNum>79</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>80</leafNum>
+                           <pageNum>80</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>81</leafNum>
+                           <pageNum>81</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>82</leafNum>
+                           <pageNum>82</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>83</leafNum>
+                           <pageNum>83</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>84</leafNum>
+                           <pageNum>84</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>85</leafNum>
+                           <pageNum>85</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>86</leafNum>
+                           <pageNum>86</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>87</leafNum>
+                           <pageNum>87</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>88</leafNum>
+                           <pageNum>88</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>89</leafNum>
+                           <pageNum>89</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>90</leafNum>
+                           <pageNum>90</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>91</leafNum>
+                           <pageNum>91</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>92</leafNum>
+                           <pageNum>92</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>93</leafNum>
+                           <pageNum>93</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>94</leafNum>
+                           <pageNum>94</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>95</leafNum>
+                           <pageNum>95</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>96</leafNum>
+                           <pageNum>96</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>97</leafNum>
+                           <pageNum>97</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>98</leafNum>
+                           <pageNum>98</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>99</leafNum>
+                           <pageNum>99</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>100</leafNum>
+                           <pageNum>100</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>101</leafNum>
+                           <pageNum>101</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>102</leafNum>
+                           <pageNum>102</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>103</leafNum>
+                           <pageNum>103</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>104</leafNum>
+                           <pageNum>104</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>105</leafNum>
+                           <pageNum>105</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>106</leafNum>
+                           <pageNum>106</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>107</leafNum>
+                           <pageNum>107</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>108</leafNum>
+                           <pageNum>108</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>109</leafNum>
+                           <pageNum>109</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>110</leafNum>
+                           <pageNum>110</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>111</leafNum>
+                           <pageNum>111</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>112</leafNum>
+                           <pageNum>112</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>113</leafNum>
+                           <pageNum>113</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>114</leafNum>
+                           <pageNum>114</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>115</leafNum>
+                           <pageNum>115</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>116</leafNum>
+                           <pageNum>116</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>117</leafNum>
+                           <pageNum>117</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>118</leafNum>
+                           <pageNum>118</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>119</leafNum>
+                           <pageNum>119</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>120</leafNum>
+                           <pageNum>120</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>121</leafNum>
+                           <pageNum>121</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>122</leafNum>
+                           <pageNum>122</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>123</leafNum>
+                           <pageNum>123</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>124</leafNum>
+                           <pageNum>124</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>125</leafNum>
+                           <pageNum>125</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>126</leafNum>
+                           <pageNum>126</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>127</leafNum>
+                           <pageNum>127</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>128</leafNum>
+                           <pageNum>128</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>129</leafNum>
+                           <pageNum>129</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>130</leafNum>
+                           <pageNum>130</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>131</leafNum>
+                           <pageNum>131</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>132</leafNum>
+                           <pageNum>132</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>133</leafNum>
+                           <pageNum>133</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>134</leafNum>
+                           <pageNum>134</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>135</leafNum>
+                           <pageNum>135</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>136</leafNum>
+                           <pageNum>136</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>137</leafNum>
+                           <pageNum>137</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>138</leafNum>
+                           <pageNum>138</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>139</leafNum>
+                           <pageNum>139</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>140</leafNum>
+                           <pageNum>140</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>141</leafNum>
+                           <pageNum>141</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>142</leafNum>
+                           <pageNum>142</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>143</leafNum>
+                           <pageNum>143</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>144</leafNum>
+                           <pageNum>144</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>145</leafNum>
+                           <pageNum>145</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>146</leafNum>
+                           <pageNum>146</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>147</leafNum>
+                           <pageNum>147</pageNum>
+                        </assertion>
+                        <assertion>
+                           <leafNum>148</leafNum>
+                           <pageNum>148</pageNum>
+                        </assertion>
+                     </pageNumData>
+                  </bookData>
+                  <pageData>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0001.xml-->
+                     <page leafNum="1">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1532.0</w>
+                           <h>2405.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0002.xml-->
+                     <page leafNum="2">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1548.0</w>
+                           <h>2389.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0003.xml-->
+                     <page leafNum="3">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1544.0</w>
+                           <h>2434.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0004.xml-->
+                     <page leafNum="4">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1558.0</w>
+                           <h>2409.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0005.xml-->
+                     <page leafNum="5">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1600.0</w>
+                           <h>2411.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0006.xml-->
+                     <page leafNum="6">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1610.0</w>
+                           <h>2406.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0007.xml-->
+                     <page leafNum="7">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1588.0</w>
+                           <h>2409.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0008.xml-->
+                     <page leafNum="8">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0009.xml-->
+                     <page leafNum="9">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1529.0</w>
+                           <h>2423.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0010.xml-->
+                     <page leafNum="10">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1544.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0011.xml-->
+                     <page leafNum="11">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1530.0</w>
+                           <h>2424.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0012.xml-->
+                     <page leafNum="12">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1535.0</w>
+                           <h>2407.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0013.xml-->
+                     <page leafNum="13">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1550.0</w>
+                           <h>2418.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0014.xml-->
+                     <page leafNum="14">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2414.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0015.xml-->
+                     <page leafNum="15">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1532.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0016.xml-->
+                     <page leafNum="16">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1530.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0017.xml-->
+                     <page leafNum="17">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2416.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0018.xml-->
+                     <page leafNum="18">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1594.0</w>
+                           <h>2408.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0019.xml-->
+                     <page leafNum="19">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1392.0</w>
+                           <h>2423.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0020.xml-->
+                     <page leafNum="20">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1414.0</w>
+                           <h>2426.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0021.xml-->
+                     <page leafNum="21">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1564.0</w>
+                           <h>2426.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0022.xml-->
+                     <page leafNum="22">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0023.xml-->
+                     <page leafNum="23">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0024.xml-->
+                     <page leafNum="24">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1594.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0025.xml-->
+                     <page leafNum="25">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0026.xml-->
+                     <page leafNum="26">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1528.0</w>
+                           <h>2402.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0027.xml-->
+                     <page leafNum="27">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2422.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0028.xml-->
+                     <page leafNum="28">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2424.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0029.xml-->
+                     <page leafNum="29">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2426.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0030.xml-->
+                     <page leafNum="30">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1594.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0031.xml-->
+                     <page leafNum="31">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1562.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0032.xml-->
+                     <page leafNum="32">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0033.xml-->
+                     <page leafNum="33">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2412.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0034.xml-->
+                     <page leafNum="34">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1548.0</w>
+                           <h>2410.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0035.xml-->
+                     <page leafNum="35">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1550.0</w>
+                           <h>2428.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0036.xml-->
+                     <page leafNum="36">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0037.xml-->
+                     <page leafNum="37">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0038.xml-->
+                     <page leafNum="38">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0039.xml-->
+                     <page leafNum="39">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0040.xml-->
+                     <page leafNum="40">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1588.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0041.xml-->
+                     <page leafNum="41">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2426.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0042.xml-->
+                     <page leafNum="42">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1586.0</w>
+                           <h>2413.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0043.xml-->
+                     <page leafNum="43">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0044.xml-->
+                     <page leafNum="44">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2423.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0045.xml-->
+                     <page leafNum="45">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2413.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0046.xml-->
+                     <page leafNum="46">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1578.0</w>
+                           <h>2424.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0047.xml-->
+                     <page leafNum="47">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1564.0</w>
+                           <h>2421.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0048.xml-->
+                     <page leafNum="48">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1596.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0049.xml-->
+                     <page leafNum="49">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0050.xml-->
+                     <page leafNum="50">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0051.xml-->
+                     <page leafNum="51">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1584.0</w>
+                           <h>2420.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0052.xml-->
+                     <page leafNum="52">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2423.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0053.xml-->
+                     <page leafNum="53">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1590.0</w>
+                           <h>2450.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0054.xml-->
+                     <page leafNum="54">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2440.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0055.xml-->
+                     <page leafNum="55">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1586.0</w>
+                           <h>2398.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0056.xml-->
+                     <page leafNum="56">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1564.0</w>
+                           <h>2450.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0057.xml-->
+                     <page leafNum="57">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2424.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0058.xml-->
+                     <page leafNum="58">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2412.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0059.xml-->
+                     <page leafNum="59">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0060.xml-->
+                     <page leafNum="60">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1546.0</w>
+                           <h>2440.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0061.xml-->
+                     <page leafNum="61">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1578.0</w>
+                           <h>2411.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0062.xml-->
+                     <page leafNum="62">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1563.0</w>
+                           <h>2270.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0063.xml-->
+                     <page leafNum="63">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2367.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0064.xml-->
+                     <page leafNum="64">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1573.0</w>
+                           <h>2438.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0065.xml-->
+                     <page leafNum="65">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0066.xml-->
+                     <page leafNum="66">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1564.0</w>
+                           <h>2422.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0067.xml-->
+                     <page leafNum="67">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1552.0</w>
+                           <h>2418.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0068.xml-->
+                     <page leafNum="68">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2421.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0069.xml-->
+                     <page leafNum="69">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2429.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0070.xml-->
+                     <page leafNum="70">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2425.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0071.xml-->
+                     <page leafNum="71">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1582.0</w>
+                           <h>2440.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0072.xml-->
+                     <page leafNum="72">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2426.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0073.xml-->
+                     <page leafNum="73">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1538.0</w>
+                           <h>2413.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0074.xml-->
+                     <page leafNum="74">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2446.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0075.xml-->
+                     <page leafNum="75">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1586.0</w>
+                           <h>2429.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0076.xml-->
+                     <page leafNum="76">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0077.xml-->
+                     <page leafNum="77">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2413.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0078.xml-->
+                     <page leafNum="78">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1582.0</w>
+                           <h>2450.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0079.xml-->
+                     <page leafNum="79">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1584.0</w>
+                           <h>2448.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0080.xml-->
+                     <page leafNum="80">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1578.0</w>
+                           <h>2433.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0081.xml-->
+                     <page leafNum="81">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1578.0</w>
+                           <h>2440.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0082.xml-->
+                     <page leafNum="82">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2446.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0083.xml-->
+                     <page leafNum="83">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2434.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0084.xml-->
+                     <page leafNum="84">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0085.xml-->
+                     <page leafNum="85">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0086.xml-->
+                     <page leafNum="86">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0087.xml-->
+                     <page leafNum="87">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2446.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0088.xml-->
+                     <page leafNum="88">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2429.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0089.xml-->
+                     <page leafNum="89">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2416.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0090.xml-->
+                     <page leafNum="90">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1556.0</w>
+                           <h>2425.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0091.xml-->
+                     <page leafNum="91">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1558.0</w>
+                           <h>2423.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0092.xml-->
+                     <page leafNum="92">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2442.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0093.xml-->
+                     <page leafNum="93">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2403.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0094.xml-->
+                     <page leafNum="94">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2433.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0095.xml-->
+                     <page leafNum="95">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2423.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0096.xml-->
+                     <page leafNum="96">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2433.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0097.xml-->
+                     <page leafNum="97">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2425.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0098.xml-->
+                     <page leafNum="98">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0099.xml-->
+                     <page leafNum="99">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2425.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0100.xml-->
+                     <page leafNum="100">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2448.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0101.xml-->
+                     <page leafNum="101">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0102.xml-->
+                     <page leafNum="102">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2429.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0103.xml-->
+                     <page leafNum="103">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1584.0</w>
+                           <h>2421.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0104.xml-->
+                     <page leafNum="104">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2446.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0105.xml-->
+                     <page leafNum="105">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2456.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0106.xml-->
+                     <page leafNum="106">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2409.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0107.xml-->
+                     <page leafNum="107">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1578.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0108.xml-->
+                     <page leafNum="108">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1552.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0109.xml-->
+                     <page leafNum="109">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2415.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0110.xml-->
+                     <page leafNum="110">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0111.xml-->
+                     <page leafNum="111">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0112.xml-->
+                     <page leafNum="112">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1546.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0113.xml-->
+                     <page leafNum="113">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2444.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0114.xml-->
+                     <page leafNum="114">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2454.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0115.xml-->
+                     <page leafNum="115">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0116.xml-->
+                     <page leafNum="116">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2444.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0117.xml-->
+                     <page leafNum="117">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1562.0</w>
+                           <h>2415.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0118.xml-->
+                     <page leafNum="118">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2423.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0119.xml-->
+                     <page leafNum="119">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0120.xml-->
+                     <page leafNum="120">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0121.xml-->
+                     <page leafNum="121">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1582.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0122.xml-->
+                     <page leafNum="122">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1552.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0123.xml-->
+                     <page leafNum="123">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1566.0</w>
+                           <h>2413.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0124.xml-->
+                     <page leafNum="124">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2446.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0125.xml-->
+                     <page leafNum="125">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0126.xml-->
+                     <page leafNum="126">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1550.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0127.xml-->
+                     <page leafNum="127">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1570.0</w>
+                           <h>2425.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0128.xml-->
+                     <page leafNum="128">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1562.0</w>
+                           <h>2448.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0129.xml-->
+                     <page leafNum="129">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2421.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0130.xml-->
+                     <page leafNum="130">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2415.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0131.xml-->
+                     <page leafNum="131">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1564.0</w>
+                           <h>2421.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0132.xml-->
+                     <page leafNum="132">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1576.0</w>
+                           <h>2411.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0133.xml-->
+                     <page leafNum="133">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1632.0</w>
+                           <h>2405.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0134.xml-->
+                     <page leafNum="134">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1530.0</w>
+                           <h>2450.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0135.xml-->
+                     <page leafNum="135">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1524.0</w>
+                           <h>2429.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0136.xml-->
+                     <page leafNum="136">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2431.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0137.xml-->
+                     <page leafNum="137">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1574.0</w>
+                           <h>2425.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0138.xml-->
+                     <page leafNum="138">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0139.xml-->
+                     <page leafNum="139">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2429.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0140.xml-->
+                     <page leafNum="140">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1556.0</w>
+                           <h>2331.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0141.xml-->
+                     <page leafNum="141">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1560.0</w>
+                           <h>2350.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0142.xml-->
+                     <page leafNum="142">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1558.0</w>
+                           <h>2401.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0143.xml-->
+                     <page leafNum="143">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1572.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0144.xml-->
+                     <page leafNum="144">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1580.0</w>
+                           <h>2417.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0145.xml-->
+                     <page leafNum="145">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1582.0</w>
+                           <h>2419.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0146.xml-->
+                     <page leafNum="146">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2407.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0147.xml-->
+                     <page leafNum="147">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1568.0</w>
+                           <h>2427.0</h>
+                        </cropBox>
+                     </page>
+                     <!--Processing page file:/usr/home/bridger/Documents/walden-processing/processed-files/0012_003644_000202_0000/0012_003644_000202_0148.xml-->
+                     <page leafNum="148">
+                        <pageType></pageType>
+                        <addToAccessFormats>true</addToAccessFormats>
+                        <cropBox>
+                           <x></x>
+                           <y></y>
+                           <w>1550.0</w>
+                           <h>2389.0</h>
+                        </cropBox>
+                     </page>
+                  </pageData>
+               </book>
+            </METS:xmlData>
+         </METS:mdWrap>
+      </METS:techMD>
+   </METS:amdSec>
+   <METS:fileSec>
+      <METS:fileGrp></METS:fileGrp>
+   </METS:fileSec>
+   <METS:structMap>
+      <METS:div></METS:div>
+   </METS:structMap>
+</METS:mets>
